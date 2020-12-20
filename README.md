@@ -1,2 +1,2 @@
-# goblog252
-goblog252 merupakan Content Management System (CMS) sekaligus personal blog/ website. Website ini dibangun dengan bahasa pemrograman PHP menggunakan framework Codeigniter 3
+# GoBlog252
+GoBlog252 is a Content Management System (CMS) as well as a personal blog / website. I built this website using the PHP programming language using the Codeigniter 3 framework
